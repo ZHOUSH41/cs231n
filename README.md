@@ -1,1 +1,1 @@
-# cs231n
+# 2017 cs231n assignments
